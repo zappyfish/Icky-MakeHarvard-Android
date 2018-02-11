@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HackHarvard</string>
+    <string name="title_activity_display">Display</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>

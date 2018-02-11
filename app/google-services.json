@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728263512302",
+    "firebase_url": "https://hackharvard-43aaa.firebaseio.com",
+    "project_id": "hackharvard-43aaa",
+    "storage_bucket": "hackharvard-43aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728263512302:android:bb61a402cabd5e1e",
+        "android_client_info": {
+          "package_name": "liamkengineering.hackharvard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728263512302-4a9ukj3vu6mt9d0tem8mk6lnpgqr2u4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "liamkengineering.hackharvard",
+            "certificate_hash": "7b0eb07f61beaa5fa3b0349abe7d06783fe89a3b"
+          }
+        },
+        {
+          "client_id": "728263512302-a6ro73oua0snu1i0e26prddgks9f9lmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ogneG0wDeBjEoD6Pc0grLcMlcSym1YY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728263512302-a6ro73oua0snu1i0e26prddgks9f9lmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
